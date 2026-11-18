@@ -1232,3 +1232,4 @@ Developing an LLM is a rigorous, multi-stage engineering lifecycle that transfor
 
 
 # Result
+The experiment successfully compared ChatGPT and Google Gemini using identical prompts on Generative AI concepts, architectures, applications, and LLM scaling. Both models generated relevant and informative responses with differences in explanation style and level of detail. The experiment helped understand the capabilities, usefulness, and limitations of different Generative AI models.
